@@ -10,8 +10,8 @@ Get-ProcessParent
 
 Output snippet: 
 
-764:services --> PPID:688\n
-772:lsass --> PPID:688\n
+764:services --> PPID:688
+772:lsass --> PPID:688
 864:svchost --> PPID:764
 916:winlogon --> PPID:680
 988:svchost --> PPID:764
